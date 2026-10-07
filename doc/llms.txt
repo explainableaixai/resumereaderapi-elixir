@@ -1,4 +1,4 @@
-# resumereaderapi v1.0.0 - Table of Contents
+# resumereaderapi v1.0.1 - Table of Contents
 
 > Elixir client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations.
 

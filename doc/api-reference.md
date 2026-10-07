@@ -1,4 +1,4 @@
-# resumereaderapi v1.0.0 - API Reference
+# resumereaderapi v1.0.1 - API Reference
 
 ## Modules
 

@@ -4,7 +4,7 @@ defmodule ResumeReaderApi.MixProject do
   def project do
     [
       app: :resumereaderapi,
-      version: "1.0.0",
+      version: "1.0.1",
       elixir: "~> 1.14",
       description: "Elixir client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations.",
       package: package(),
